@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Yogesh_and_Primes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Basic_Programs/Fibo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Basic_Programs/Prime_or_not.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Switch_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Arrrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Basic_Programs/Prime_or_not" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Basic_Programs/Amstrong_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Basic_Programs/Amstrong_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Amstrong_number.executor": "Run",
     "Application.Conditions.executor": "Run",
     "Application.Fibo.executor": "Run",
     "Application.Loops.executor": "Run",

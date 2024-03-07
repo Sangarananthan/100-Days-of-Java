@@ -5,29 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Yogesh_and_Primes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Basic_Programs/Fibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Basic_Programs/Prime_or_not.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Switch_Statement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Basic_Programs/Prime_or_not" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "947eb072",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;947eb072&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2dE2asRwwnS2W7JmLSgUEFOKPfy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Conditions.executor": "Run",
+    "Application.Fibo.executor": "Run",
+    "Application.Loops.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Prime_or_not.executor": "Run",
+    "Application.Switch_Statement.executor": "Run",
+    "Application.Yogesh_and_Primes.executor": "Run",
+    "Application.sum_of_two.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",

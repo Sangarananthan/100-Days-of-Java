@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commitchanges">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Data_Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Find_Character_Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Switch_Case_statement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/if_else_Decision_Making.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1672_Richest_Customer_Wealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Check_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Largest_Element_in_the_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Nth_Fibonacci_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Second_Largest_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Sum_of_even_odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1752_Check_if_Array_Is_Sorted_and_Rotated.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,9 @@
     "Application.Prime_or_not.executor": "Run",
     "Application.Q1295_Find_Numbers_with_Even_Number_of_Digits.executor": "Run",
     "Application.Q1672_Richest_Customer_Wealth.executor": "Run",
+    "Application.Q1752_Check_if_Array_Is_Sorted_and_Rotated.executor": "Run",
+    "Application.Remove_Duplicates_from_Sorted_Array.executor": "Run",
+    "Application.Second_Largest_Number.executor": "Debug",
     "Application.Switch_Statement.executor": "Run",
     "Application.Yogesh_and_Primes.executor": "Run",
     "Application.sum_of_two.executor": "Run",
@@ -122,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709969148799</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commitchanges">
+      <option name="closed" value="true" />
+      <created>1709971361564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709971361564</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,5 +152,83 @@
     <MESSAGE value="commit" />
     <MESSAGE value="commitchanges" />
     <option name="LAST_COMMIT_MESSAGE" value="commitchanges" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Second_Largest_Number.java</url>
+          <line>6</line>
+          <properties class="Coding_Ninja.Second_Largest_Number" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Second_Largest_Number.java</url>
+          <line>10</line>
+          <properties class="Coding_Ninja.Second_Largest_Number" method="getSecondOrderElements">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Second_Largest_Number.java</url>
+          <line>16</line>
+          <properties class="Coding_Ninja.Second_Largest_Number" method="secondlargest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Second_Largest_Number.java</url>
+          <line>30</line>
+          <properties class="Coding_Ninja.Second_Largest_Number" method="secondsmallest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Q1752_Check_if_Array_Is_Sorted_and_Rotated.java</url>
+          <line>6</line>
+          <properties class="Leetcode.Q1752_Check_if_Array_Is_Sorted_and_Rotated" method="check">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Q1752_Check_if_Array_Is_Sorted_and_Rotated.java</url>
+          <line>3</line>
+          <properties class="Leetcode.Q1752_Check_if_Array_Is_Sorted_and_Rotated" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Remove_Duplicates_from_Sorted_Array.java</url>
+          <line>6</line>
+          <properties class="Coding_Ninja.Remove_Duplicates_from_Sorted_Array" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Remove_Duplicates_from_Sorted_Array.java</url>
+          <line>12</line>
+          <properties class="Coding_Ninja.Remove_Duplicates_from_Sorted_Array" method="removeDuplicates">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

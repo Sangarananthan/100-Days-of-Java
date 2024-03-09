@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/com/Searching/Linear_search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Q1295_Find_Numbers_with_Even_Number_of_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Q1295_Find_Numbers_with_Even_Number_of_Digits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,25 +36,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Amstrong_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arrrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Conditions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prime_or_not.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch_Statement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Yogesh_and_Primes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sum_of_two.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;E:/100_Days_of_JAVA/Java/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Amstrong_number.executor": "Run",
+    "Application.Arrrays.executor": "Run",
+    "Application.Conditions.executor": "Run",
+    "Application.Fibo.executor": "Run",
+    "Application.Linear_search.executor": "Run",
+    "Application.Loops.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Prime_or_not.executor": "Run",
+    "Application.Q1295_Find_Numbers_with_Even_Number_of_Digits.executor": "Run",
+    "Application.Switch_Statement.executor": "Run",
+    "Application.Yogesh_and_Primes.executor": "Run",
+    "Application.sum_of_two.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "E:/100_Days_of_JAVA/Java/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709559468483</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1709968242685</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709968242685</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

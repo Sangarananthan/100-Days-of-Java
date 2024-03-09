@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commit" />
+    <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commitchanges">
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Data_Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Find_Character_Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Switch_Case_statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/if_else_Decision_Making.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1672_Richest_Customer_Wealth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;947eb072&quot;,
@@ -43,6 +54,7 @@
     "Application.Main.executor": "Run",
     "Application.Prime_or_not.executor": "Run",
     "Application.Q1295_Find_Numbers_with_Even_Number_of_Digits.executor": "Run",
+    "Application.Q1672_Richest_Customer_Wealth.executor": "Run",
     "Application.Switch_Statement.executor": "Run",
     "Application.Yogesh_and_Primes.executor": "Run",
     "Application.sum_of_two.executor": "Run",
@@ -102,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709969101062</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commitchanges">
+      <option name="closed" value="true" />
+      <created>1709969148799</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709969148799</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,17 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="commitchanges" />
+    <option name="LAST_COMMIT_MESSAGE" value="commitchanges" />
   </component>
 </project>

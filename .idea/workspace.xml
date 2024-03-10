@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commitchanges">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Check_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Largest_Element_in_the_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Nth_Fibonacci_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Second_Largest_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Sum_of_even_odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1752_Check_if_Array_Is_Sorted_and_Rotated.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Ninja/Remove_Duplicates_from_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Ninja/Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,31 +38,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Amstrong_number.executor": "Run",
-    "Application.Arrrays.executor": "Run",
-    "Application.Conditions.executor": "Run",
-    "Application.Fibo.executor": "Run",
-    "Application.Linear_search.executor": "Run",
-    "Application.Loops.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Prime_or_not.executor": "Run",
-    "Application.Q1295_Find_Numbers_with_Even_Number_of_Digits.executor": "Run",
-    "Application.Q1672_Richest_Customer_Wealth.executor": "Run",
-    "Application.Q1752_Check_if_Array_Is_Sorted_and_Rotated.executor": "Run",
-    "Application.Remove_Duplicates_from_Sorted_Array.executor": "Run",
-    "Application.Second_Largest_Number.executor": "Debug",
-    "Application.Switch_Statement.executor": "Run",
-    "Application.Yogesh_and_Primes.executor": "Run",
-    "Application.sum_of_two.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "E:/100_Days_of_JAVA/Java/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Amstrong_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Linear_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime_or_not.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1295_Find_Numbers_with_Even_Number_of_Digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1672_Richest_Customer_Wealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1752_Check_if_Array_Is_Sorted_and_Rotated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Remove_Duplicates_from_Sorted_Array.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Second_Largest_Number.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Switch_Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Yogesh_and_Primes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum_of_two.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/100_Days_of_JAVA/Java/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -134,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709971361564</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commitchanges">
+      <option name="closed" value="true" />
+      <created>1709997869007</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709997869007</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

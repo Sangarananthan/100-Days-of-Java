@@ -11,21 +11,21 @@ public class Remove_Duplicates_from_Sorted_Array {
     }
 
     public static int removeDuplicates(int[] arr, int n) {
-      int i = 1;
-      int j=0;
-      while(i < arr.length)
-      {
-          if(arr[j] == arr[i] )
-          {
-              i++;
-          }
-          else {
-              arr[j] = arr[i];
-              j++;
-              i++;
-          }
-      }
-      return j;
+        int check = 0;
+        int i = 0;
+        while(i < arr.length)
+        {
+            if(i == check || arr[i] == arr[check])
+            {
+                i++;
+            }
+            else {
+                check+=1;
+                arr[check]  = arr[i];
+                i++;
+            }
+        }
+        return check;
     }
 
 }

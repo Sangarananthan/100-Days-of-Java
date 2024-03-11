@@ -1,4 +1,4 @@
-package com.Basic_Programs;
+package Java.Basic_Programs;
 
 class sum_of_two {
     public static void main(String[] args) {

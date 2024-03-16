@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commitchanges">
-      <change afterPath="$PROJECT_DIR$/src/Java/Searching/infinite_array_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q852_Peak_Index_in_a_Mountain_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Basic_Programs/Mountain_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Basic_Programs/Rotated_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Basic_Programs/Rotated_array_with_duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Basic_Programs/Rotation_count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1095_Find_in_Mountain_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q162_Find_Peak_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q33_Search_in_Rotated_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q410_Split_Array_Largest_Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Q744_Find_Smallest_Letter_Greater_Than_Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Q744_Find_Smallest_Letter_Greater_Than_Target.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +57,7 @@
     "Application.Linear_search.executor": "Run",
     "Application.Loops.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Mountain_array.executor": "Run",
     "Application.OrderAgnosticBinarySearch.executor": "Run",
     "Application.Order_agnostic_binary_search.executor": "Run",
     "Application.Prime_or_not.executor": "Run",
@@ -61,6 +66,9 @@
     "Application.Q1672_Richest_Customer_Wealth.executor": "Run",
     "Application.Q1752_Check_if_Array_Is_Sorted_and_Rotated.executor": "Run",
     "Application.Remove_Duplicates_from_Sorted_Array.executor": "Run",
+    "Application.Rotated_array.executor": "Run",
+    "Application.Rotated_array_with_duplicates.executor": "Run",
+    "Application.Rotation_count.executor": "Run",
     "Application.Second_Largest_Number.executor": "Debug",
     "Application.Switch_Statement.executor": "Run",
     "Application.Yogesh_and_Primes.executor": "Run",
@@ -187,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710421959755</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commitchanges">
+      <option name="closed" value="true" />
+      <created>1710567969216</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710567969216</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,6 +305,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java/Basic_Programs/Rotation_count.java</url>
+          <line>3</line>
+          <properties class="Java.Basic_Programs.Rotation_count" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java/Basic_Programs/Rotation_count.java</url>
+          <line>9</line>
+          <properties class="Java.Basic_Programs.Rotation_count" method="rotation_count">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java/Basic_Programs/Rotation_count.java</url>
+          <line>15</line>
+          <properties class="Java.Basic_Programs.Rotation_count" method="peak">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

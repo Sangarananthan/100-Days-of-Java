@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commitchanges">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Ceil_The_Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Basic_Programs/Ceiling_and_Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q744_Find_Smallest_Letter_Greater_Than_Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Searching/infinite_array_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q852_Peak_Index_in_a_Mountain_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Q744_Find_Smallest_Letter_Greater_Than_Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Q744_Find_Smallest_Letter_Greater_Than_Target.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +64,7 @@
     "Application.Second_Largest_Number.executor": "Debug",
     "Application.Switch_Statement.executor": "Run",
     "Application.Yogesh_and_Primes.executor": "Run",
+    "Application.infinite_array_search.executor": "Run",
     "Application.sum_of_two.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -177,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710249034766</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commitchanges">
+      <option name="closed" value="true" />
+      <created>1710421959754</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710421959755</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

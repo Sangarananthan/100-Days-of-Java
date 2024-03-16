@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commitchanges">
-      <change afterPath="$PROJECT_DIR$/src/Java/Basic_Programs/Mountain_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Basic_Programs/Rotated_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Basic_Programs/Rotated_array_with_duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Basic_Programs/Rotation_count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1095_Find_in_Mountain_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q162_Find_Peak_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q33_Search_in_Rotated_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q410_Split_Array_Largest_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Binary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/First_and_Last_Position_of_an_Element_In_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Implement_Lower_Bound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Number_of_occurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Search_Insert_Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/implement_Upper_Bound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q35_Search_Insert_Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q704_Binary_Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -54,6 +55,8 @@
     "Application.Ceiling_and_Floor.executor": "Run",
     "Application.Conditions.executor": "Run",
     "Application.Fibo.executor": "Run",
+    "Application.First_and_Last_Position_of_an_Element_In_Sorted_Array.executor": "Run",
+    "Application.Implement_Lower_Bound.executor": "Run",
     "Application.Linear_search.executor": "Run",
     "Application.Loops.executor": "Run",
     "Application.Main.executor": "Run",
@@ -203,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710567969216</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="commitchanges">
+      <option name="closed" value="true" />
+      <created>1710570728131</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710570728131</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,6 +343,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Implement_Lower_Bound.java</url>
+          <line>7</line>
+          <properties class="Coding_Ninja.Implement_Lower_Bound" method="lowerBound">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Implement_Lower_Bound.java</url>
+          <line>3</line>
+          <properties class="Coding_Ninja.Implement_Lower_Bound" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/First_and_Last_Position_of_an_Element_In_Sorted_Array.java</url>
+          <line>24</line>
+          <properties class="Coding_Ninja.First_and_Last_Position_of_an_Element_In_Sorted_Array" method="binary">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

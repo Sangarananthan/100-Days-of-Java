@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commitchanges">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Binary_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/First_and_Last_Position_of_an_Element_In_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Implement_Lower_Bound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Number_of_occurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Search_Insert_Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/implement_Upper_Bound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q35_Search_Insert_Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q704_Binary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Find_Minimum_in_Rotated_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Rotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Search_In_Rotated_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Single_Element_in_a_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q153_Find_Minimum_in_Rotated_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q540_Single_Element_in_a_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q81_Search_in_Rotated_Sorted_Array_II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Ninja/Number_of_occurrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Ninja/Number_of_occurrence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,9 @@
     "Application.Remove_Duplicates_from_Sorted_Array.executor": "Run",
     "Application.Rotated_array.executor": "Run",
     "Application.Rotated_array_with_duplicates.executor": "Run",
+    "Application.Rotation.executor": "Run",
     "Application.Rotation_count.executor": "Run",
+    "Application.Search_In_Rotated_Sorted_Array.executor": "Debug",
     "Application.Second_Largest_Number.executor": "Debug",
     "Application.Switch_Statement.executor": "Run",
     "Application.Yogesh_and_Primes.executor": "Run",
@@ -214,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710570728131</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commitchanges">
+      <option name="closed" value="true" />
+      <created>1710628682948</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710628682948</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -370,6 +380,42 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Search_In_Rotated_Sorted_Array.java</url>
+          <line>19</line>
+          <properties class="Coding_Ninja.Search_In_Rotated_Sorted_Array" method="search">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Search_In_Rotated_Sorted_Array.java</url>
+          <line>25</line>
+          <properties class="Coding_Ninja.Search_In_Rotated_Sorted_Array" method="binary">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Rotation.java</url>
+          <line>10</line>
+          <properties class="Coding_Ninja.Rotation" method="findKRotation">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Rotation.java</url>
+          <line>18</line>
+          <properties class="Coding_Ninja.Rotation" method="rotaion">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

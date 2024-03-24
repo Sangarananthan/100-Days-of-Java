@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commitchanges">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Find_Minimum_in_Rotated_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Rotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Search_In_Rotated_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Single_Element_in_a_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q153_Find_Minimum_in_Rotated_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q540_Single_Element_in_a_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q81_Search_in_Rotated_Sorted_Array_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Aggressive_Cows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Capacity_To_Ship_Packages_Within_D_Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Find_Nth_Root_Of_M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Koko_Eating_Bananas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Kth_Missing_Positive_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Rose_Garden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Smallest_divisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Square_Root_of_a_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1011_Capacity_To_Ship_Packages_Within_D_Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1283_Find_the_Smallest_Divisor_Given_a_Threshold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1482_Minimum_Number_of_Days_to_Make_m_Bouquets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1539_Kth_Missing_Positive_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Ninja/Number_of_occurrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Ninja/Number_of_occurrence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +52,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Aggressive_Cows.executor": "Run",
     "Application.Amstrong_number.executor": "Run",
     "Application.Arrrays.executor": "Run",
     "Application.Binary_search.executor": "Run",
+    "Application.Capacity_To_Ship_Packages_Within_D_Days.executor": "Run",
     "Application.Ceil_The_Floor.executor": "Run",
     "Application.Ceiling_and_Floor.executor": "Run",
     "Application.Conditions.executor": "Run",
     "Application.Fibo.executor": "Run",
     "Application.First_and_Last_Position_of_an_Element_In_Sorted_Array.executor": "Run",
     "Application.Implement_Lower_Bound.executor": "Run",
+    "Application.Koko_Eating_Bananas.executor": "Run",
+    "Application.Kth_Missing_Positive_Number.executor": "Run",
     "Application.Linear_search.executor": "Run",
     "Application.Loops.executor": "Run",
     "Application.Main.executor": "Run",
@@ -65,16 +73,19 @@
     "Application.Order_agnostic_binary_search.executor": "Run",
     "Application.Prime_or_not.executor": "Run",
     "Application.Product_Of_Array_Except_Self.executor": "Run",
+    "Application.Q1283_Find_the_Smallest_Divisor_Given_a_Threshold.executor": "Run",
     "Application.Q1295_Find_Numbers_with_Even_Number_of_Digits.executor": "Run",
     "Application.Q1672_Richest_Customer_Wealth.executor": "Run",
     "Application.Q1752_Check_if_Array_Is_Sorted_and_Rotated.executor": "Run",
     "Application.Remove_Duplicates_from_Sorted_Array.executor": "Run",
+    "Application.Rose_Garden.executor": "Run",
     "Application.Rotated_array.executor": "Run",
     "Application.Rotated_array_with_duplicates.executor": "Run",
     "Application.Rotation.executor": "Run",
     "Application.Rotation_count.executor": "Run",
     "Application.Search_In_Rotated_Sorted_Array.executor": "Debug",
     "Application.Second_Largest_Number.executor": "Debug",
+    "Application.Smallest_divisor.executor": "Debug",
     "Application.Switch_Statement.executor": "Run",
     "Application.Yogesh_and_Primes.executor": "Run",
     "Application.infinite_array_search.executor": "Run",
@@ -224,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710628682948</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="commitchanges">
+      <option name="closed" value="true" />
+      <created>1710650768666</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710650768666</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,6 +435,137 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Koko_Eating_Bananas.java</url>
+          <line>9</line>
+          <properties class="Coding_Ninja.Koko_Eating_Bananas" method="minimumRateToEatBananas">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Koko_Eating_Bananas.java</url>
+          <line>23</line>
+          <properties class="Coding_Ninja.Koko_Eating_Bananas" method="calculate_hours">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Koko_Eating_Bananas.java</url>
+          <line>31</line>
+          <properties class="Coding_Ninja.Koko_Eating_Bananas" method="maxi">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Rose_Garden.java</url>
+          <line>10</line>
+          <properties class="Coding_Ninja.Rose_Garden" method="roseGarden">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Rose_Garden.java</url>
+          <line>33</line>
+          <properties class="Coding_Ninja.Rose_Garden" method="calculate_bouquets">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Smallest_divisor.java</url>
+          <line>7</line>
+          <properties class="Coding_Ninja.Smallest_divisor" method="smallestDivisor">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Smallest_divisor.java</url>
+          <line>30</line>
+          <properties class="Coding_Ninja.Smallest_divisor" method="calculate_sum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Q1283_Find_the_Smallest_Divisor_Given_a_Threshold.java</url>
+          <line>9</line>
+          <properties class="Leetcode.Q1283_Find_the_Smallest_Divisor_Given_a_Threshold" method="smallestDivisor">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Q1283_Find_the_Smallest_Divisor_Given_a_Threshold.java</url>
+          <line>33</line>
+          <properties class="Leetcode.Q1283_Find_the_Smallest_Divisor_Given_a_Threshold" method="calculate_sum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Capacity_To_Ship_Packages_Within_D_Days.java</url>
+          <line>9</line>
+          <properties class="Coding_Ninja.Capacity_To_Ship_Packages_Within_D_Days" method="leastWeightCapacity">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Capacity_To_Ship_Packages_Within_D_Days.java</url>
+          <line>28</line>
+          <properties class="Coding_Ninja.Capacity_To_Ship_Packages_Within_D_Days" method="calculate_days">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Kth_Missing_Positive_Number.java</url>
+          <line>10</line>
+          <properties class="Coding_Ninja.Kth_Missing_Positive_Number" method="missingK">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Aggressive_Cows.java</url>
+          <line>11</line>
+          <properties class="Coding_Ninja.Aggressive_Cows" method="aggressiveCows">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Aggressive_Cows.java</url>
+          <line>6</line>
+          <properties class="Coding_Ninja.Aggressive_Cows" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Coding_Ninja/Capacity_To_Ship_Packages_Within_D_Days.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

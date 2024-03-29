@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commitchanges">
-      <change afterPath="$PROJECT_DIR$/src/Java/Recursion/Binary_search_recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Recursion/Fibonnaci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Recursion/Find_all_index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Recursion/isSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Recursion/linear_search_recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Sorting/Bubble_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Sorting/Cyclic_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Sorting/Selection_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Sorting/insertion_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q287_Find_the_Duplicate_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q41_First_Missing_Positive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q442_Find_All_Duplicates_in_an_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q448_Find_All_Numbers_Disappeared_in_an_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q645_Set_Mismatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Recursion/Find_all_index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Recursion/Find_all_index.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,62 +38,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Aggressive_Cows.executor": "Run",
-    "Application.Amstrong_number.executor": "Run",
-    "Application.Arrrays.executor": "Run",
-    "Application.Binary_search.executor": "Run",
-    "Application.Binary_search_recursion.executor": "Run",
-    "Application.Bubble_sort.executor": "Run",
-    "Application.Capacity_To_Ship_Packages_Within_D_Days.executor": "Run",
-    "Application.Ceil_The_Floor.executor": "Run",
-    "Application.Ceiling_and_Floor.executor": "Run",
-    "Application.Conditions.executor": "Run",
-    "Application.Cyclic_sort.executor": "Debug",
-    "Application.Fibo.executor": "Run",
-    "Application.Fibonnaci.executor": "Run",
-    "Application.First_and_Last_Position_of_an_Element_In_Sorted_Array.executor": "Run",
-    "Application.Implement_Lower_Bound.executor": "Run",
-    "Application.Koko_Eating_Bananas.executor": "Run",
-    "Application.Kth_Missing_Positive_Number.executor": "Run",
-    "Application.Linear_search.executor": "Run",
-    "Application.Loops.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Mountain_array.executor": "Run",
-    "Application.OrderAgnosticBinarySearch.executor": "Run",
-    "Application.Order_agnostic_binary_search.executor": "Run",
-    "Application.Prime_or_not.executor": "Run",
-    "Application.Product_Of_Array_Except_Self.executor": "Run",
-    "Application.Q1283_Find_the_Smallest_Divisor_Given_a_Threshold.executor": "Run",
-    "Application.Q1295_Find_Numbers_with_Even_Number_of_Digits.executor": "Run",
-    "Application.Q1672_Richest_Customer_Wealth.executor": "Run",
-    "Application.Q1752_Check_if_Array_Is_Sorted_and_Rotated.executor": "Run",
-    "Application.Remove_Duplicates_from_Sorted_Array.executor": "Run",
-    "Application.Rose_Garden.executor": "Run",
-    "Application.Rotated_array.executor": "Run",
-    "Application.Rotated_array_with_duplicates.executor": "Run",
-    "Application.Rotation.executor": "Run",
-    "Application.Rotation_count.executor": "Run",
-    "Application.Search_In_Rotated_Sorted_Array.executor": "Debug",
-    "Application.Second_Largest_Number.executor": "Debug",
-    "Application.Selection_sort.executor": "Run",
-    "Application.Smallest_divisor.executor": "Debug",
-    "Application.Switch_Statement.executor": "Run",
-    "Application.Yogesh_and_Primes.executor": "Run",
-    "Application.infinite_array_search.executor": "Run",
-    "Application.insertion_sort.executor": "Run",
-    "Application.isSorted.executor": "Run",
-    "Application.linear_search_recursion.executor": "Run",
-    "Application.sum_of_two.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "E:/100_Days_of_JAVA/Java/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Aggressive_Cows.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Amstrong_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Binary_search_recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bubble_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Capacity_To_Ship_Packages_Within_D_Days.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ceil_The_Floor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ceiling_and_Floor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cyclic_sort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Fibo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonnaci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.First_and_Last_Position_of_an_Element_In_Sorted_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Implement_Lower_Bound.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Koko_Eating_Bananas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kth_Missing_Positive_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Linear_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mountain_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderAgnosticBinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Order_agnostic_binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime_or_not.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Product_Of_Array_Except_Self.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1283_Find_the_Smallest_Divisor_Given_a_Threshold.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1295_Find_Numbers_with_Even_Number_of_Digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1672_Richest_Customer_Wealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1752_Check_if_Array_Is_Sorted_and_Rotated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Remove_Duplicates_from_Sorted_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rose_Garden.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rotated_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rotated_array_with_duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rotation_count.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Search_In_Rotated_Sorted_Array.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Second_Largest_Number.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Selection_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Smallest_divisor.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Switch_Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Yogesh_and_Primes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.infinite_array_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.insertion_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.isSorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linear_search_recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum_of_two.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/100_Days_of_JAVA/Java/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -261,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711257785387</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="commitchanges">
+      <option name="closed" value="true" />
+      <created>1711689269804</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711689269804</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

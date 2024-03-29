@@ -5,18 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff4711d-ffd6-4908-b675-49108412469a" name="Changes" comment="commitchanges">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Aggressive_Cows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Capacity_To_Ship_Packages_Within_D_Days.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Find_Nth_Root_Of_M.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Koko_Eating_Bananas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Kth_Missing_Positive_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Rose_Garden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Smallest_divisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninja/Square_Root_of_a_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1011_Capacity_To_Ship_Packages_Within_D_Days.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1283_Find_the_Smallest_Divisor_Given_a_Threshold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1482_Minimum_Number_of_Days_to_Make_m_Bouquets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q1539_Kth_Missing_Positive_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Recursion/Binary_search_recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Recursion/Fibonnaci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Recursion/Find_all_index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Recursion/isSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Recursion/linear_search_recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Sorting/Bubble_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Sorting/Cyclic_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Sorting/Selection_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Sorting/insertion_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q287_Find_the_Duplicate_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q41_First_Missing_Positive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q442_Find_All_Duplicates_in_an_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q448_Find_All_Numbers_Disappeared_in_an_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Q645_Set_Mismatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,11 +58,15 @@
     "Application.Amstrong_number.executor": "Run",
     "Application.Arrrays.executor": "Run",
     "Application.Binary_search.executor": "Run",
+    "Application.Binary_search_recursion.executor": "Run",
+    "Application.Bubble_sort.executor": "Run",
     "Application.Capacity_To_Ship_Packages_Within_D_Days.executor": "Run",
     "Application.Ceil_The_Floor.executor": "Run",
     "Application.Ceiling_and_Floor.executor": "Run",
     "Application.Conditions.executor": "Run",
+    "Application.Cyclic_sort.executor": "Debug",
     "Application.Fibo.executor": "Run",
+    "Application.Fibonnaci.executor": "Run",
     "Application.First_and_Last_Position_of_an_Element_In_Sorted_Array.executor": "Run",
     "Application.Implement_Lower_Bound.executor": "Run",
     "Application.Koko_Eating_Bananas.executor": "Run",
@@ -85,10 +91,14 @@
     "Application.Rotation_count.executor": "Run",
     "Application.Search_In_Rotated_Sorted_Array.executor": "Debug",
     "Application.Second_Largest_Number.executor": "Debug",
+    "Application.Selection_sort.executor": "Run",
     "Application.Smallest_divisor.executor": "Debug",
     "Application.Switch_Statement.executor": "Run",
     "Application.Yogesh_and_Primes.executor": "Run",
     "Application.infinite_array_search.executor": "Run",
+    "Application.insertion_sort.executor": "Run",
+    "Application.isSorted.executor": "Run",
+    "Application.linear_search_recursion.executor": "Run",
     "Application.sum_of_two.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -243,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710650768666</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="commitchanges">
+      <option name="closed" value="true" />
+      <created>1711257785387</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711257785387</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -561,6 +579,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java/Sorting/Bubble_sort.java</url>
+          <line>11</line>
+          <properties class="Java.Sorting.Bubble_sort" method="bubble">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java/Sorting/Cyclic_sort.java</url>
+          <line>10</line>
+          <properties class="Java.Sorting.Cyclic_sort" method="cyclic">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Coding_Ninja/Capacity_To_Ship_Packages_Within_D_Days.java</url>
